@@ -1,0 +1,9 @@
+
+See documentation at:
+
+    http://www.alsa-project.org/alsa-doc/alsa-lib/
+
+Programs:
+
+  * alsa-example.cc ...... : a cleaned-up version of the PCM sample that comes with libasound.
+  * alsa-audio.cc ........ :  a minimalistic example that produces 2 seconds of sine sound using ALSA.
